@@ -14,12 +14,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="config-server" target="1.7" />
-      <module name="eurekaServer" target="1.7" />
+      <module name="config-server" target="1.8" />
+      <module name="eurekaServer" target="1.8" />
       <module name="product-data-service" target="8" />
       <module name="product-view-service-feign" target="8" />
       <module name="product-view-service-ribbon" target="8" />
-      <module name="springcloud" target="1.7" />
+      <module name="springcloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
