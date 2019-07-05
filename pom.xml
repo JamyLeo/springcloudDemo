@@ -20,6 +20,9 @@
       <module>product-view-service-ribbon</module>
       <module>product-view-service-feign</module>
       <module>config-server</module>
+    <module>hystrix-dashboard</module>
+    <module>ProductServiceTurbine</module>
+      <module>productServiceZuul</module>
   </modules>
   <name>springcloud</name>
   <!-- FIXME change it to the project's website -->
@@ -27,8 +30,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
     <java.version>1.8</java.version>
     <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
   </properties>
